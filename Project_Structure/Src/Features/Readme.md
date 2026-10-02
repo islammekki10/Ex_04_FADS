@@ -1,0 +1,1 @@
+This folder contains scripts used to transform data and create features for modelling.

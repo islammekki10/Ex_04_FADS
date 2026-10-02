@@ -1,0 +1,1 @@
+This folder contains scripts used to download, collect, or generate data for the project.

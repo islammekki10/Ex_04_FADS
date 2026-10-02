@@ -1,0 +1,1 @@
+This folder contains intermediate datasets generated during the data preparation process.

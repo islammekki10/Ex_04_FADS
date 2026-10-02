@@ -1,0 +1,1 @@
+This folder contains data obtained from external or third-party sources.
